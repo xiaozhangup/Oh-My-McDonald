@@ -1,6 +1,8 @@
 # Oh-My-McDonald
 
-![四种场景](docs/images/overview.png)
+https://github.com/user-attachments/assets/e0bc2d36-26e1-42b6-9329-985fb6f0117f
+
+[下载介绍视频](docs/videos/oh-my-mcdonald-intro.mp4)
 
 **Oh-My-McDonald** 是一个基于麦当劳官方 MCP 的对话驱动 AI Skill。
 
